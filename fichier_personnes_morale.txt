@@ -1,3 +1,0 @@
-1;Entrepot_A;rue des Fleurs Paris;0123456789;entrepot
-2;Depot_Vente_A;rue des Paquerettes Paris;0102030506;depot_vente
-3;MobilierPourTous;rue des Coeurs Paris;0105040302;association
